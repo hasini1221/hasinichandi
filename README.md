@@ -1,2 +1,2 @@
 # hasinichandi
-for educational purposes
+Data Science Project
